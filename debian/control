@@ -1,0 +1,12 @@
+Source: ros-lunar-lauv-gazebo
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-lauv-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-lauv-control, ros-lunar-lauv-description, ros-lunar-rosbag, ros-lunar-uuv-control-utils
+Description: Sample launch files to start a simulated LAUV in Gazebo.
