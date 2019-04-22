@@ -1,0 +1,50 @@
+ros-melodic-lauv-control (0.1.6-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Fri, 19 Apr 2019 22:00:00 -0000
+
+ros-melodic-lauv-control (0.1.5-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 13 Feb 2019 23:00:00 -0000
+
+ros-melodic-lauv-control (0.1.4-0bionic) bionic; urgency=high
+
+  * FIX Configuration of GT controller with NED frame
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes, Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sun, 08 Jul 2018 22:00:00 -0000
+
+ros-melodic-lauv-control (0.1.3-0bionic) bionic; urgency=high
+
+  * FIX Visualizatin of wrench markers
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * FIX GT controller parameters
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes, Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Thu, 05 Jul 2018 22:00:00 -0000
+
+ros-melodic-lauv-control (0.1.2-0bionic) bionic; urgency=high
+
+  * ADD Information to Gazebo world configuration to README file
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 04 Jul 2018 22:00:00 -0000
+
+ros-melodic-lauv-control (0.1.1-0bionic) bionic; urgency=high
+
+  * ADD CHANGELOG files
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-melodic-lauv-control (0.1.0-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+
