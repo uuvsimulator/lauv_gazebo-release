@@ -1,0 +1,12 @@
+Source: ros-kinetic-lauv-gazebo
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-lauv-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-lauv-control, ros-kinetic-lauv-description, ros-kinetic-rosbag, ros-kinetic-uuv-control-utils
+Description: Sample launch files to start a simulated LAUV in Gazebo.
